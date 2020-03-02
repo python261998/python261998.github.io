@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
-    		<source src="https://f.video.weibocdn.com/0018Iur9lx07AgXPavvq01041201m14V0E010.mp4?label=mp4_720p&template=1280x720.25.0&trans_finger=11ccc9c970f47cffd9369c72510b3033&Expires=1583128915&ssig=w9J0JGWR5H&KID=unistore,video" type="video/mp4">  
+    		<source src="https://f.video.weibocdn.com/UXA1z9dblx07Bme7kkMg01041200DLlX0E010.mp4?label=mp4_720p&template=1280x720.25.0&trans_finger=11ccc9c970f47cffd9369c72510b3033&Expires=1583129090&ssig=5matqyjvvE&KID=unistore,video" type="video/mp4">  
    		    <source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
