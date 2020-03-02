@@ -9,7 +9,7 @@
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
     		<source src="https://github.com/python261998/python261998.github.io/blob/master/WeChat_20200227095515.mp4" type="video/mp4">  
-   		    <source src="movie.ogg" type="video/ogg">  
+   		<source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
         		<embed src="movie.swf" width="320" height="240">  
