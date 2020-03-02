@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+     <meta charset="utf-8" emacsmode="-*- markdown -*-"><style class="fallback">body{visibility:hidden}</style><link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/dark.css?">
 
-You can use the [editor on GitHub](https://github.com/python261998/wechat_v/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+	    <video width="320" height="240" controls autoplay muted>  
+    		<source src="https://f.video.weibocdn.com/HZ0nHETVlx07Bih2L3TO01041204xEdE0E020.mp4?label=dash_720p&template=1280x720.25.0&Expires=1582942479&ssig=mn%2Fcg31gm7&KID=unistore,video&media_id=1034:4476779247894530&tp=YTkl0eM8:YTkl0eM8&us=8bG7Hc&ori=0&ctb=0&ot=h&ps=4pdsh0&ab=1410-g2,946-g0,1326-g0,540-g1,966-g1,1055-g0,878-g1,1493-g0,1277-g1,1192-g0,1091-g1,1191-g0,1046-g2,1258-g0,1887-g2&range=11478617-11966313" type="video/mp4">  
+   		    <source src="movie.ogg" type="video/ogg">  
+    		<source src="movie.webm" type="video/webm"> 
+    		<object data="movie.mp4" width="320" height="240">    
+        		<embed src="movie.swf" width="320" height="240">  
+    		</object> 
+		</video>
+ 
+   
+	</body>
+</html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/python261998/wechat_v/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
