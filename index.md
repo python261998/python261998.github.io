@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
-    		<source src="381206HTTPSf.video.weibocdn.com/004ByR6igx07Bl7fbIj501041200hn940E010.mp4?label=dash_audio" type="video/mp4">  
+    		<source src="https://381206HTTPSf.video.weibocdn.com/004ByR6igx07Bl7fbIj501041200hn940E010.mp4?label=dash_audio" type="video/mp4">  
    		<source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
