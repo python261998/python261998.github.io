@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
-    		<source src="https://cloudquery.t9t.io/query?url=https%3A%2F%2Fvideo.weibo.com%2Fshow%3Ffid%3D1034%3A4477421345243189&selectors=*:nth-child(2)%20%3E%20*:nth-child(10)" type="video/mp4">  
+    		<source src="https://weibo.com/tv/v/Iwuc2iAMX?fid=1034:4477421345243189" type="video/mp4">  
    		<source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
