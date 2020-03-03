@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
-    		<source src="https://weibo.com/aj/video/getdashinfo?ajwvr=6&media_ids=1034:4477421345243189,1034:4477996950552601,1034:4477690842120222,1034:4476733173202951&__rnd=1583199230880" type="video/mp4">  
+    		<source src="http://f.video.weibocdn.com/001W0ZH9gx07BnDfWvsH01041200fU9f0E010.mp4?label=dash_hd&template=400x224.25.0&Expires=1583202830&ssig=L2%2FvnInAln&KID=unistore,video&media_id=1034:4477996950552601&tp=YTkl0eM8:YTkl0eM8&us=8bG7Hc&ori=0&ctb=0&ot=h&ps=4pdsh0&ab=1410-g2,946-g0,1326-g0,540-g1,966-g1,1055-g0,878-g1,1493-g0,1277-g1,1192-g0,1091-g1,1191-g0,1046-g2,1258-g0,1887-g2" type="video/mp4">  
    		<source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
