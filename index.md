@@ -8,7 +8,9 @@
 	</head>
 	<body>
 	    <video width="320" height="240" controls autoplay muted>  
-    		<source src="https://381206HTTPSf.video.weibocdn.com/004ByR6igx07Bl7fbIj501041200hn940E010.mp4?label=dash_audio" type="video/mp4">  
+    		<source src="https://multimedia.api.weibo.com/2/multimedia/user/play_history/report.json?source=2637646381&play_type=1&video_orientation=horizontal&video_duration=256.904&id=4477425624431323&id_type=0&seconds=28&oid=1034:4477421345243189&reqHost=https://weibo.com/fav?leftnav=1 HTTP/1.1
+Host: multimedia.api.weibo.com
+" type="video/mp4">  
    		<source src="movie.ogg" type="video/ogg">  
     		<source src="movie.webm" type="video/webm"> 
     		<object data="movie.mp4" width="320" height="240">    
